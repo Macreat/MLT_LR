@@ -1,0 +1,1 @@
+Python 3.10 + CUDA 11.8 + RAPIDS 24.04 + PyTorch 2.1 + TensorFlow 2.14
