@@ -6,4 +6,7 @@ PYDevEnv/content/ss'sBooks/*.epub
 PYDevEnv/devContent/tests/P1/data/ 
 
 
-PYDevEnv/devContent/tests/P1/results/models/ 
+PYDevEnv/devContent/tests/P1/results/models/
+
+condaDevEnv/
+
