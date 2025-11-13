@@ -1,1 +1,8 @@
 Python 3.10 + CUDA 11.8 + RAPIDS 24.04 + PyTorch 2.1 + TensorFlow 2.14
+
+
+in order to open environment direct from vsc IDE : conda activate ml_gpu_env && code .
+ 
+
+to source on wls : source ~/.bashrc
+

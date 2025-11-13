@@ -10,3 +10,7 @@ PYDevEnv/devContent/tests/P1/results/models/
 
 condaDevEnv/
 
+*.sh
+
+
+PYDevEnv/devContent/tasks/6thTaskAtariAgents/DevEnvRL/Lib
