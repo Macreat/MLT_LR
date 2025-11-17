@@ -6,3 +6,7 @@ in order to open environment direct from vsc IDE : conda activate ml_gpu_env && 
 
 to source on wls : source ~/.bashrc
 
+
+
+to activ env : 
+conda activate /mnt/a/wnOs/LR/machineLearningTheoryEnv/TAM/devEnv/MLT_LR/condaDevEnvRL
