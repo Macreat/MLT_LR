@@ -9,8 +9,12 @@ PYDevEnv/devContent/tests/P1/data/
 PYDevEnv/devContent/tests/P1/results/models/
 
 condaDevEnv/
-
+condaDevEnvDL/
 *.sh
 
 
-PYDevEnv/devContent/tasks/6thTaskAtariAgents/DevEnvRL/Lib
+PYDevEnv/devContent/tasks/6thTaskAtariAgents/devEnvRL/Lib
+
+
+PYDevEnv/devContent/tasks/Notebooks/3sklearnReg/Main_Fifa
+PYDevEnv/devContent/tasks/Notebooks/3sklearnReg/codigos.zip
