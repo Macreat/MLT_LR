@@ -12,8 +12,6 @@
 
 ## Descripción General
 
-![NFLow](./results/NFLow.png)
-
 Este proyecto desarrolla un **pipeline completo de aprendizaje supervisado y análisis comparativo CPU vs GPU** utilizando el conjunto de datos de **NFL Big Data Bowl 2026** (Kaggle).  
 El objetivo es **evaluar, ajustar y optimizar distintos modelos de regresión** implementados en **scikit-learn** y **cuML (RAPIDS)**, analizando su rendimiento, tiempos de ejecución y capacidad predictiva.
 
@@ -84,13 +82,10 @@ El trabajo se estructura en torno a la teoría vista en clase (Bishop, Prince, M
   - Visualización con gráficos de barras (tiempo / error).
   - Identificación del mejor modelo y análisis teórico del resultado.
 
-    ![r2Mod](./results/R2models.png)
-
-- [x] **3 Conclusiones y verificación de rendimiento**
+- [x] **3 Conclusiones**
   - Evaluación global del desempeño en CPU y posterior implementación en GPU.
   - Discusión sobre precisión, velocidad y generalización.
   - Propuestas de mejora y extensiones (deep learning, más datos, tuning avanzado).
-    ![loss&acc](./results/loss&acc.png)
 
 ---
 
@@ -98,8 +93,10 @@ El trabajo se estructura en torno a la teoría vista en clase (Bishop, Prince, M
 
 P1/  
 ├── data/ # Datasets descargados de Kaggle  
-├── notebook/ # Jupyter notebook del proyecto  
-│
+├── notebooks/ # Jupyter notebooks del proyecto  
+│ ├── 01_exploracion.ipynb  
+│ ├── 02_entrenamiento.ipynb  
+│ └── 03_evaluacion.ipynb  
 │  
 ├── results/ # Resultados del entrenamiento y métricas  
 │ ├── metrics/ # Reportes de rendimiento  
