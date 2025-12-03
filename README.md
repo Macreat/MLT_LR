@@ -89,7 +89,7 @@ Then ,navigate to the correct folder depending on task:
 In order to run notebooks,
 
 ```bash
-From the repo root : jupyter notebook DevContent/
+From the repo root : jupyter notebook work/
 ```
 
 or open the .ipynb files directly in VSCode with the Python extension, also you can download and import on colab or any other environment.
@@ -122,10 +122,11 @@ All inside PYDevEnv/:
 - [x] Add repo structure
 - [x] Upload repo from course
 - [x] Document first experiments and tasks (linear regression, Bayesian optimization)
-- [x] First partial test (currently working on)
-- [ ] Deliver work as:
+- [x] First partial test (ML on NFL DB)
+- [x] Deliver work as:
   - assigned tasks
   - mathematical/model demonstrations
+- [x] second test (DL on NFL DB)
 - [ ] Project
 
 ## Author
